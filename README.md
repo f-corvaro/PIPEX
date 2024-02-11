@@ -181,17 +181,17 @@ Should behave like: ```cmd << LIMITER | cmd1 >> file```
 
 ### Correction sheet
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-pipex"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-pipex/.extra/.cs/pipex1.png">
+<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex1.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-pipex"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-pipex/.extra/.cs/pipex2.png">
+<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex2.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-pipex"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-pipex/.extra/.cs/pipex3.png">
+<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex3.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-pipex"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-pipex/.extra/.cs/pipex4.png">
+<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex4.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-pipex"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-pipex/.extra/.cs/pipex5.png">
+<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex5.png">
 
-<a href="https://github.com/f-corvaro/42.common_core/tree/main/02-pipex"><img width="650" src="https://github.com/f-corvaro/42.common_core/blob/main/02-pipex/.extra/.cs/pipex6.png">
+<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex6.png">
 
 </p>
 <br>
