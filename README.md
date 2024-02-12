@@ -1,4 +1,4 @@
-<h1 align="center">PIPEX</h1>
+<h1 align="center">PIPEX-In development</h1>
 
 <p align="center">
   <a href="https://github.com/f-corvaro/PIPEX">
