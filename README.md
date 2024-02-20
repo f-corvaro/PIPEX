@@ -53,7 +53,36 @@
 <p align="justify">
 
 ```
-
+.
+├── pipex
+│   ├── include
+│   │   ├── pipex_b.h
+│   │   └── pipex.h
+│   ├── lib
+│   ├── srcs
+│   │   ├── ft_environment_op.c
+│   │   ├── ft_error_handling.c
+│   │   ├── ft_file_in_out_op.c
+│   │   ├── ft_init.c
+│   │   ├── ft_memory_management.c
+│   │   ├── ft_no_environment_op.c
+│   │   ├── ft_pipe.c
+│   │   ├── ft_process_management.c
+│   │   ├── ft_utils.c
+│   │   └── main.c
+│   ├── srcs_b
+│   │   ├── ft_environment_op_b.c
+│   │   ├── ft_error_handling_b.c
+│   │   ├── ft_file_in_out_op_b.c
+│   │   ├── ft_init_b.c
+│   │   ├── ft_memory_management_b.c
+│   │   ├── ft_no_environment_op_b.c
+│   │   ├── ft_pipe_b.c
+│   │   ├── ft_process_management_b.c
+│   │   ├── ft_utils_b.c
+│   │   └── main_b.c
+│   └── Makefile
+└── README.md
 ```
 
 <br>
