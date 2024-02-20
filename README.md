@@ -410,13 +410,13 @@ I've tested my Pipex implementation using various testers, which have been instr
 
 **Be aware that the management of errors and file permissions may vary depending on the system where the tool is executed.**
 
-- [PipexMedic](git@github.com:gmarcha/pipexMedic.git) is a specialized tool for Linux systems. It provides valuable functionality for verifying file permissions, exit code statuses, output files, standard streams, and parallelism.
+- <a href="https://github.com/gmarcha/pipexMedic">PipexMedic</a> is a specialized tool for Linux systems. It provides valuable functionality for verifying file permissions, exit code statuses, output files, standard streams, and parallelism.
 
-- [pipex-tester](git@github.com:vfurmane/pipex-tester.git).
+- <a href="https://github.com/vfurmane/pipex-tester">pipex-tester</a>
 
-- [PipexTester](git@github.com:gsilva-v/PipexTester.git).
+- <a href="https://github.com/gsilva-v/PipexTester">PipexTester</a>
 
-- [pipex_tester_42](git@github.com:Yoo0lh/pipex_tester_42.git).
+- <a href="https://github.com/Yoo0lh/pipex_tester_42">pipex_tester_42</a>
 
 ### Correction sheet
 
