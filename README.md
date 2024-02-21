@@ -408,8 +408,6 @@ This will print a list of all processes whose parent process is the process with
 
 I've tested my Pipex implementation using various testers, which have been instrumental in identifying edge cases and other significant scenarios. The most effective ones are:
 
-**Be aware that the management of errors and file permissions may vary depending on the system where the tool is executed.**
-
 - <a href="https://github.com/gmarcha/pipexMedic">PipexMedic</a> is a specialized tool for Linux systems. It provides valuable functionality for verifying file permissions, exit code statuses, output files, standard streams, and parallelism.
 
 - <a href="https://github.com/vfurmane/pipex-tester">pipex-tester</a>
@@ -417,6 +415,8 @@ I've tested my Pipex implementation using various testers, which have been instr
 - <a href="https://github.com/gsilva-v/PipexTester">PipexTester</a>
 
 - <a href="https://github.com/Yoo0lh/pipex_tester_42">pipex_tester_42</a>
+
+**Be aware that the management of errors and file permissions may vary depending on the system where the tool is executed.**
 
 ### Correction sheet
 
