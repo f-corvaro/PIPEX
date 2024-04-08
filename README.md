@@ -1,10 +1,6 @@
-<h1 align="center">PIPEX</h1>
-
-<p align="center">
+<h1 align="center"><p align="center">
   <a href="https://github.com/f-corvaro/PIPEX">
-	<img src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/pipex.png" alt="PIPEX" width="300">
-  </a>
-</p>
+	<img src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/pipex.png" alt="PIPEX"></h1>
 
 <p align="center">
 	<b><i>"Unleash the power of Unix pipelines and redirections with PIPEX - your gateway to system programming."</i></b><br>
