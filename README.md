@@ -19,8 +19,6 @@
   <a href="#index">Index</a><br>
 
 - [Introduction](#introduction)
-- [Introduction](#introduction-1)
-- [Introduction](#introduction-2)
   - [Overview](#overview)
 - [Folder Structure](#folder-structure)
 - [Project Requirements - Mandatory Part](#project-requirements---mandatory-part)
@@ -59,9 +57,6 @@
 ## Introduction
 
 <p align="justify">
-
-## Introduction
-## Introduction
 
 The Pipex project is a part of the 42 curriculum and aims to create a program in C that mimics the Unix pipeline mechanism. This mechanism is based on the `|` (pipe) operator, which allows chaining multiple commands together, with the output of one command serving as input to the next.
 
