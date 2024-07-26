@@ -505,7 +505,7 @@ I've tested my Pipex implementation using various tools, which have been instrum
 
 - <a href="https://github.com/gsilva-v/PipexTester">PipexTester</a>: Another robust tool for testing Pipex implementations.
 
-- <a href="[def]">pipex_tester_42</a>: A useful tester for Pipex projects.
+- <a href="https://github.com/Yoo0lh/pipex_tester_42">pipex_tester_42</a>: A useful tester for Pipex projects.
 
 **Note: The management of errors and file permissions may vary depending on the system where the tool is executed.**
 
