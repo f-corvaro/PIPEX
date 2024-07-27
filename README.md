@@ -498,18 +498,22 @@ I've tested my Pipex implementation using various tools, which have been instrum
 
 ### Correction Sheet
 
+<p align="center">
 <a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex1.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex2.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex3.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex4.png">
-
+</p>
+<p align="center">
 <a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex5.png">
-
+<p align="center">
 <a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex6.png">
-
 </p>
 <br>
 
