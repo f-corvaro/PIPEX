@@ -40,9 +40,9 @@
  <a href="#evaluation-process">Evaluation Process</a><br>
  <a href="#usefull-testing-tools">Useful Testing Tools</a><br>
  <a href="#correction-sheet">Correction Sheet</a><br>
+ <a href="#developed-skills">Developed Skills</a><br>
  <a href="#references">References</a><br>
  <a href="#support-and-contributions">Support and Contributions</a><br>
- <a href="#skills-developed">Skills developed</a><br>
  <a href="#author">Author</a><br>
 </p>
 <br>
@@ -513,6 +513,14 @@ I've tested my Pipex implementation using various tools, which have been instrum
 </p>
 <br>
 
+## Developed Skills
+
+<p align="center">
+  <a href="https://skillicons.dev">
+    <img src="https://skillicons.dev/icons?i=git,c,vim,vscode" />
+  </a>
+</p><br>
+
 ## References
 
 - [Visualization of a fork call in C](https://www.youtube.com/watch?v=QD9YKSg3wCc&list=PLK4FY1IoDcHG-jUt93Cl7n7XLQDZ0q7Tv): A video demonstrating how the `fork` system call works in C, with visual aids.
@@ -528,7 +536,7 @@ I've tested my Pipex implementation using various tools, which have been instrum
 - [pipex guide](https://reactive.so/post/42-a-comprehensive-guide-to-pipex): An in-depth guide covering the theoretical and practical aspects of the Pipex project.
 
 <br>
-  
+
 ## Support and Contributions
 
 <p align="center">
@@ -539,14 +547,6 @@ If you find this repository helpful, please consider starring it to show your su
 <a href="https://github.com/sponsors/f-corvaro"><img width="180" img align="center" src="https://github.com/f-corvaro/42.common_core/blob/main/.extra/support-me-github.svg"><alt=""></a>
 
 <br>
-
-## Skills developed
-
-<p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=git,c,vim,vscode" />
-  </a>
-</p><br>
 
 ## Author
 
