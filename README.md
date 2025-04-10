@@ -6,7 +6,6 @@
 	<b><i>"Unleash the power of Unix pipelines and redirections with PIPEX - your gateway to system programming."</i></b><br>
 </p>
 <p align="center" style="text-decoration: none;">
-    <a href="https://github.com/f-corvaro/PIPEX/blob/main/.extra/en.subject.pdf"><img alt="subject" src="https://img.shields.io/badge/subject-PIPEX-yellow" /></a>
     <a href="https://github.com/f-corvaro/PIPEX"><img alt="GitHub code size in bytes" src="https://img.shields.io/github/languages/code-size/f-corvaro/PIPEX?color=blueviolet" /></a>
     <a href="https://github.com/f-corvaro/PIPEX"><img alt="Code language count" src="https://img.shields.io/github/languages/count/f-corvaro/PIPEX?color=yellow" /></a>
     <a href="https://github.com/f-corvaro/PIPEX"><img alt="GitHub top language" src="https://img.shields.io/github/languages/top/f-corvaro/PIPEX?color=blueviolet" /></a>
@@ -39,7 +38,6 @@
  <a href="#environment-variables">Environment Variables</a><br>
  <a href="#evaluation-process">Evaluation Process</a><br>
  <a href="#usefull-testing-tools">Useful Testing Tools</a><br>
- <a href="#correction-sheet">Correction Sheet</a><br>
  <a href="#developed-skills">Developed Skills</a><br>
  <a href="#references">References</a><br>
  <a href="#support-and-contributions">Support and Contributions</a><br>
@@ -495,27 +493,6 @@ I've tested my Pipex implementation using various tools, which have been instrum
 - <a href="https://github.com/Yoo0lh/pipex_tester_42">pipex_tester_42</a>: A useful tester for Pipex projects.
 
 **Note: The management of errors and file permissions may vary depending on the system where the tool is executed.**
-
-### Correction Sheet
-
-<p align="center">
-<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex1.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex2.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex3.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex4.png">
-</p>
-<p align="center">
-<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex5.png">
-<p align="center">
-<a href="https://github.com/f-corvaro/PIPEX"><img width="650" src="https://github.com/f-corvaro/PIPEX/blob/main/.extra/.cs/pipex6.png">
-</p>
-<br>
 
 ## Developed Skills
 
