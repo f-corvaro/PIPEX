@@ -36,7 +36,6 @@
  <a href="#checking-for-open-processes-and-file-descriptors">Checking for Open Processes and File Descriptors</a><br>
  <a href="#environment">Environment</a><br>
  <a href="#environment-variables">Environment Variables</a><br>
- <a href="#evaluation-process">Evaluation Process</a><br>
  <a href="#usefull-testing-tools">Useful Testing Tools</a><br>
  <a href="#developed-skills">Developed Skills</a><br>
  <a href="#references">References</a><br>
@@ -478,8 +477,6 @@ Environment variables provide a flexible way to configure and customize the beha
 
 <p>
 <br>
-
-## Evaluation Process
 
 ### Usefull Testing Tools
 
