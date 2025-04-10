@@ -478,7 +478,7 @@ Environment variables provide a flexible way to configure and customize the beha
 <p>
 <br>
 
-### Usefull Testing Tools
+## Usefull Testing Tools
 
 I've tested my Pipex implementation using various tools, which have been instrumental in identifying edge cases and other significant scenarios. The most effective ones are:
 
